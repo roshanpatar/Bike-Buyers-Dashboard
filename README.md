@@ -1,2 +1,2 @@
-# Data-Analytics-Internship-at-Prepinsta
-All week projects
+# Bike Buyers Dashboard Using Google sheet
+Data Analytics Internship at Prepinsta (Week 1)
